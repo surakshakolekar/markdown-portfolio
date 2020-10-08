@@ -1,4 +1,4 @@
-# <h2>My favorite places to visit:
+# My favorite places to visit:
 1. Magod falls
 2. dharmasthala
 3. mumbai
